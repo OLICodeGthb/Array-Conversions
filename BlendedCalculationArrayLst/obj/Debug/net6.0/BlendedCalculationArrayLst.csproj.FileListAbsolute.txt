@@ -1,0 +1,15 @@
+C:\Users\OLI\OneDrive - NPTC Group\ICT Level 3 Year 2\Programming\Tasks\BlendedCalculationArrayLst\BlendedCalculationArrayLst\bin\Debug\net6.0\BlendedCalculationArrayLst.exe
+C:\Users\OLI\OneDrive - NPTC Group\ICT Level 3 Year 2\Programming\Tasks\BlendedCalculationArrayLst\BlendedCalculationArrayLst\bin\Debug\net6.0\BlendedCalculationArrayLst.deps.json
+C:\Users\OLI\OneDrive - NPTC Group\ICT Level 3 Year 2\Programming\Tasks\BlendedCalculationArrayLst\BlendedCalculationArrayLst\bin\Debug\net6.0\BlendedCalculationArrayLst.runtimeconfig.json
+C:\Users\OLI\OneDrive - NPTC Group\ICT Level 3 Year 2\Programming\Tasks\BlendedCalculationArrayLst\BlendedCalculationArrayLst\bin\Debug\net6.0\BlendedCalculationArrayLst.dll
+C:\Users\OLI\OneDrive - NPTC Group\ICT Level 3 Year 2\Programming\Tasks\BlendedCalculationArrayLst\BlendedCalculationArrayLst\bin\Debug\net6.0\BlendedCalculationArrayLst.pdb
+C:\Users\OLI\OneDrive - NPTC Group\ICT Level 3 Year 2\Programming\Tasks\BlendedCalculationArrayLst\BlendedCalculationArrayLst\obj\Debug\net6.0\BlendedCalculationArrayLst.csproj.AssemblyReference.cache
+C:\Users\OLI\OneDrive - NPTC Group\ICT Level 3 Year 2\Programming\Tasks\BlendedCalculationArrayLst\BlendedCalculationArrayLst\obj\Debug\net6.0\BlendedCalculationArrayLst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OLI\OneDrive - NPTC Group\ICT Level 3 Year 2\Programming\Tasks\BlendedCalculationArrayLst\BlendedCalculationArrayLst\obj\Debug\net6.0\BlendedCalculationArrayLst.AssemblyInfoInputs.cache
+C:\Users\OLI\OneDrive - NPTC Group\ICT Level 3 Year 2\Programming\Tasks\BlendedCalculationArrayLst\BlendedCalculationArrayLst\obj\Debug\net6.0\BlendedCalculationArrayLst.AssemblyInfo.cs
+C:\Users\OLI\OneDrive - NPTC Group\ICT Level 3 Year 2\Programming\Tasks\BlendedCalculationArrayLst\BlendedCalculationArrayLst\obj\Debug\net6.0\BlendedCalculationArrayLst.csproj.CoreCompileInputs.cache
+C:\Users\OLI\OneDrive - NPTC Group\ICT Level 3 Year 2\Programming\Tasks\BlendedCalculationArrayLst\BlendedCalculationArrayLst\obj\Debug\net6.0\BlendedCalculationArrayLst.dll
+C:\Users\OLI\OneDrive - NPTC Group\ICT Level 3 Year 2\Programming\Tasks\BlendedCalculationArrayLst\BlendedCalculationArrayLst\obj\Debug\net6.0\refint\BlendedCalculationArrayLst.dll
+C:\Users\OLI\OneDrive - NPTC Group\ICT Level 3 Year 2\Programming\Tasks\BlendedCalculationArrayLst\BlendedCalculationArrayLst\obj\Debug\net6.0\BlendedCalculationArrayLst.pdb
+C:\Users\OLI\OneDrive - NPTC Group\ICT Level 3 Year 2\Programming\Tasks\BlendedCalculationArrayLst\BlendedCalculationArrayLst\obj\Debug\net6.0\BlendedCalculationArrayLst.genruntimeconfig.cache
+C:\Users\OLI\OneDrive - NPTC Group\ICT Level 3 Year 2\Programming\Tasks\BlendedCalculationArrayLst\BlendedCalculationArrayLst\obj\Debug\net6.0\ref\BlendedCalculationArrayLst.dll
